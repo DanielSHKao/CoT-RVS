@@ -2,7 +2,7 @@
 # CoT-RVS 
 > [**CoT-RVS: Zero-Shot Chain-of-Thought Reasoning Segmentation for Videos**]()      
 > Shiu-hong Kao, Yu-Wing Tai, Chi-Keung Tang       
-> [Project page](https://danielshkao.github.io/cor-rvs.html)
+> [Project page](https://danielshkao.github.io/cot-rvs.html)
 
 ---
 Our code will be released soon.
