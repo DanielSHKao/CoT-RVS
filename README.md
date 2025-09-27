@@ -1,6 +1,6 @@
 
 # CoT-RVS 
-> [**CoT-RVS: Zero-Shot Chain-of-Thought Reasoning Segmentation for Videos**]()      
+> [**CoT-RVS: Zero-Shot Chain-of-Thought Reasoning Segmentation for Videos**](https://arxiv.org/abs/2505.18561)      
 > Shiu-hong Kao, Yu-Wing Tai, Chi-Keung Tang       
 > [Project page](https://danielshkao.github.io/cot-rvs.html)
 
@@ -16,7 +16,7 @@ If you find this repository helpful, please consider citing:
 @article{CoTRVS,
   title={CoT-RVS: Zero-Shot Chain-of-Thought Reasoning Segmentation for Videos},
   author={Kao, Shiu-hong and Tai, Yu-Wing and Tang, Chi-Keung},
-  journal={arXiv preprint arXiv:2505.xxxxx},
+  journal={arXiv preprint arXiv:2505.18561},
   year={2025}
 }
 ```
